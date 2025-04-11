@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 checks whether look-alike characters are actually the same string or not. It also checks for invisible characters that form hidden messages. Credits for this latter mechanism go to paulgb
 
 ## how I personally compiled it
